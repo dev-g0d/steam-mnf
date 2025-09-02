@@ -1,0 +1,20 @@
+{
+  "manifestRepos": [
+    "qwe213312/k25FCdfE0eJ4256",
+    "dev-g0d/k25FCdfE0eJ4256"
+  ],
+  "keyTokenRepos": [
+    "SteamAutoCracks/ManifestHub",
+    "dev-g0d/steam-mnf",
+    "SPINOZA1/GB_manifest_DB"
+  ],
+  "appBranchRepos": [
+    "dev-g0d/steam-mnf",
+    "SteamAutoCracks/ManifestHub",
+    "SPINOZA1/GB_manifest_DB"
+  ],
+  "vdfKeyRepos": [
+    "SteamAutoCracks/ManifestHub",
+    "dev-g0d/ManifestHub"
+  ]
+}
